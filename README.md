@@ -2,7 +2,10 @@
 
 All digital Lei Zef (Heavy Metal Zef) band.
 
-- Stewjie - Lead Singer Module, Rhythm Guitar Module
-- DJ Module 
-- Bass Module
-- Skin Eater - Drummer Module
+- Stewjie - Lead Singer
+- Pimmy Jage - Lead Guitar
+- Deeze Nuts - Eekhoring DJ
+- Bas Kitar - Bass Guitar
+- Skin Eater - Drummer
+
+  
